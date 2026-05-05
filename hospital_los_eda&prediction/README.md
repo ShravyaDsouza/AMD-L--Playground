@@ -38,5 +38,5 @@ Indicates both patient history and hospital factors influence length of stay.
 - handling class imbalance
 - external dataset validation
 
-**Dataset** : [https://www.kaggle.com/datasets/aayushchou/hospital-length-of-stay-dataset-microsoft/data]url
-**Notebook** : [https://www.kaggle.com/code/shravyadsouza22/predicting-hospital-length-of-stay-using-lightgbm]url
+- **Dataset** : [https://www.kaggle.com/datasets/aayushchou/hospital-length-of-stay-dataset-microsoft/data]url
+- **Notebook** : [https://www.kaggle.com/code/shravyadsouza22/predicting-hospital-length-of-stay-using-lightgbm]url
